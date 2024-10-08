@@ -1,3 +1,11 @@
+# Equipe
+
+- Daniel da Silva Souza
+- Eduardo Cavalcanti Marinho de Albuquerque
+- Brenno Alves dos Santos Perônico
+- Dian Fritz
+- João Guilherme Gomes Farias
+
 # Como rodar o projeto?
 
 - Instale as dependências (numpy, matplotlib e typer)
